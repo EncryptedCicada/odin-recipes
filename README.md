@@ -1,2 +1,2 @@
-# odin-recipes
-Repo for personal project taught by The Odin Project
+# Hello Odin!?
+This repository is for me to start learning web development from theodinproject.com ;)
